@@ -47,6 +47,34 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>MonoBundle/ADRaffy.ENSNormalize.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LS/V+4xoH3+wDviKWs3f4rCqBC+e6hy8bNk3Pssqy10=
+			</data>
+		</dict>
+		<key>MonoBundle/BouncyCastle.Crypto.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			n7KC+76rIikEfNEJ10mSwNXh+MMbda/f4FD9fZ8WIw4=
+			</data>
+		</dict>
+		<key>MonoBundle/CommunityToolkit.Maui.Core.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			B7ecnecFjk4zMbU+Kkf7zNLyI0CxmcRnRhxi61HJUig=
+			</data>
+		</dict>
+		<key>MonoBundle/CommunityToolkit.Maui.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RhJYafPnVD06QsKRMqIkL/2+/2UcAnzJpUFqqrr24Xc=
+			</data>
+		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
 		<dict>
 			<key>hash2</key>
@@ -199,6 +227,132 @@
 			<key>hash2</key>
 			<data>
 			00FH+TsgMTUcfdWOsY+vSPPNNoynDmp1lCXNjD7abzw=
+			</data>
+		</dict>
+		<key>MonoBundle/NBitcoin.Secp256k1.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Bf0pejGhwzmkPS66o5X5zvinaEVx7lcrpGLPdfF6OzI=
+			</data>
+		</dict>
+		<key>MonoBundle/Nethereum.ABI.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oGenySuiYv7mDIpPAvGqxYwGa21K9ElrK/SULbuNWQg=
+			</data>
+		</dict>
+		<key>MonoBundle/Nethereum.Accounts.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			J270Mjc7oi06BCxcgNwINkiJKs8++yQSyBv3T+dC5dc=
+			</data>
+		</dict>
+		<key>MonoBundle/Nethereum.BlockchainProcessing.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rgDHrAuC1nw5p63v8DlymKqtQDk+n7KSEqiTLup+w5c=
+			</data>
+		</dict>
+		<key>MonoBundle/Nethereum.Contracts.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Xnlhq5GUzWiovPLWE+JoK1K1n1BASGxKLzpekRfKVCY=
+			</data>
+		</dict>
+		<key>MonoBundle/Nethereum.Hex.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4HW2CxrCCs6bxO3b1SMFdWK8RgXc5KWWSXYO5swd69c=
+			</data>
+		</dict>
+		<key>MonoBundle/Nethereum.JsonRpc.Client.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tNv8Hv4o9wnDb659IpFZ2QAZTKpoEeyURKfarTUkqc4=
+			</data>
+		</dict>
+		<key>MonoBundle/Nethereum.JsonRpc.RpcClient.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YHlWc++bm/YRMtJEb5OUe5xi1i5ddefQM3vqMmV99PU=
+			</data>
+		</dict>
+		<key>MonoBundle/Nethereum.KeyStore.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jIDcm/gLHNyMDlqNzVX+FLmmvP2eWLwxn+3sbQkzNBE=
+			</data>
+		</dict>
+		<key>MonoBundle/Nethereum.Merkle.Patricia.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			66SNsbKwlk3ASeQrp96w3p8/aPIu5C/IMhYl6RPdMzE=
+			</data>
+		</dict>
+		<key>MonoBundle/Nethereum.Model.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Jytg7lr6G9BYR9izqHqERH/8QnpE8RxEvs3JT+6JgTA=
+			</data>
+		</dict>
+		<key>MonoBundle/Nethereum.RLP.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xrOzktQz/zfIB0C3+nevmqnh9e3S1Q2ByLZohAEiU38=
+			</data>
+		</dict>
+		<key>MonoBundle/Nethereum.RPC.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kncqLkkC6RRVp0/8x2NvGFLH4Cg31YYE6FvVfRk8YIg=
+			</data>
+		</dict>
+		<key>MonoBundle/Nethereum.Signer.EIP712.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dCVAirGR28L6rxtRkxWKyRoFkPJpuXhjxtvh1B3F2FM=
+			</data>
+		</dict>
+		<key>MonoBundle/Nethereum.Signer.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LZBoFqDkC8Lg6tBqxGsSUeJB9dxkiGttVpsq3Q8gKkI=
+			</data>
+		</dict>
+		<key>MonoBundle/Nethereum.Util.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CRnLbE8uXdTCVKu2d6SZ0hPHPbvYl1CFSD9uhcACBbs=
+			</data>
+		</dict>
+		<key>MonoBundle/Nethereum.Web3.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZggIfMmDQ/NRyjj3ytYEgd6OeLfKzA+kKTUd/WeUUwA=
+			</data>
+		</dict>
+		<key>MonoBundle/Newtonsoft.Json.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gkIipvi93hhq6PE+WvoKU82xCfBcfl2PTHNjD3enxt4=
 			</data>
 		</dict>
 		<key>MonoBundle/System.AppContext.dll</key>
@@ -1479,14 +1633,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			naZmW/+sJzbmIUfWnkA9ve/h2jxI/MIc1ZM+dswiHc0=
+			aUPVBFujH4/+M482sxquvgBfWuqpV5nuos1JvgurBdw=
 			</data>
 		</dict>
 		<key>MonoBundle/myAcademe.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X4HN9VvV2nUT3wxAClrJMd3/8umYgJkgLnurcjnCWeM=
+			rZGGG6+qQt3VArWEUEfdNG6iJNJzgw1SW8HIfdgmHbA=
 			</data>
 		</dict>
 		<key>MonoBundle/nb/Microsoft.Maui.Controls.resources.dll</key>

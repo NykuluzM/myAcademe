@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wNoBHKKp0vfrm3Myv7JYhoVvpYpWaoDaj2NVUK5geNoK8BDw0NhSw99d+tZJ1YN+L6i5Kbjy6C4fWVtnqSJ4uQ==",
+  "dgSpecHash": "R+phKUsrPgVGGl51aPvbgPC9obVV0mTFk385LEIl+3qBD8tynnR1pBYXpGaXUa6KBfsAC3MmAXWiZRrLA+sWrA==",
   "success": true,
   "projectFilePath": "/Users/nykzzz/myAcademe/myAcademe/myAcademe.csproj",
   "expectedPackageFiles": [
     "/Users/nykzzz/.nuget/packages/adraffy.ensnormalize/0.1.5/adraffy.ensnormalize.0.1.5.nupkg.sha512",
+    "/Users/nykzzz/.nuget/packages/communitytoolkit.maui/7.0.1/communitytoolkit.maui.7.0.1.nupkg.sha512",
+    "/Users/nykzzz/.nuget/packages/communitytoolkit.maui.core/7.0.1/communitytoolkit.maui.core.7.0.1.nupkg.sha512",
     "/Users/nykzzz/.nuget/packages/googlegson/2.10.1.4/googlegson.2.10.1.4.nupkg.sha512",
     "/Users/nykzzz/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "/Users/nykzzz/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
