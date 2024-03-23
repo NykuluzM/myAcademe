@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nykuluz\\source\\repos\\NykuluzM\\myAcademeLocal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E609429-7BF5-4C1F-9BB2-D22285A8B132}|myAcademe\\myAcademe.csproj|c:\\users\\nykuluz\\source\\repos\\nykuluzm\\myacademelocal\\myacademe\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5E609429-7BF5-4C1F-9BB2-D22285A8B132}|myAcademe\\myAcademe.csproj|solutionrelative:myacademe\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Nykuluz\\source\\repos\\NykuluzM\\myAcademeLocal\\myAcademe\\.gitignore",
+              "RelativeDocumentMoniker": "myAcademe\\.gitignore",
+              "ToolTip": "C:\\Users\\Nykuluz\\source\\repos\\NykuluzM\\myAcademeLocal\\myAcademe\\.gitignore",
+              "RelativeToolTip": "myAcademe\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-23T05:54:01.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
